@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    ".env*": "dotenv",
+    "*.md": "typescript",
+    "bitset": "cpp",
+    "set": "cpp"
+  }
+}
